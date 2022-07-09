@@ -1,6 +1,3 @@
-/**
- * Build config for electron renderer process
- */
 
 import webpack from 'webpack'
 import { BundleAnalyzerPlugin } from 'webpack-bundle-analyzer'
