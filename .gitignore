@@ -4,6 +4,7 @@ node_modules
 
 # OSX
 .DS_Store
+dist
 
 npm-debug.log.*
 *.css.d.ts
